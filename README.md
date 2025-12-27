@@ -9,8 +9,8 @@
      -The second was a review of linear algebra and analytic geometry,which felt easy for me with my math background, so I just read through the full notes I found online instead of taking my own.
  ## Career Planning
  -As a math major, I aim to become a CG engineer.
- -**Target cities**: Shengzhen(1st choice)&Hangzhou(2nd choice)
+ 1.**Target cities**: Shengzhen(1st choice)&Hangzhou(2nd choice)
  (avoid Beijing/Shanghai for less competition)
- -**Expected salary**:15k-25k RMB.
- -**Plan**: Build & polish CG projects in 3-4 months to compensate for non-top undergrad background & zero work experience.
- -Confirmed my interim goal through discussions with AI:
+ 2.**Expected salary**:15k-25k RMB.
+ 3.**Plan**: Build & polish CG projects in 3-4 months to compensate for non-top undergrad background & zero work experience.
+ -Confirmed my interim goal through discussions with AI.
